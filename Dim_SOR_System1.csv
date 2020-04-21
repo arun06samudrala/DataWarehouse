@@ -1,0 +1,9 @@
+SOR_system_ID,SOR_name,SOR_description,SOR_Type,SOR_DBMS,SOR_DBName,SOR_DBSchema,SOR_FileType,SOR_filename,SOR_AppName,SOR_AppModule,DI_Job_ID,DI_Create_Date,DI_Modified_Date
+1,retail_sor_na,Sales detail of north america,Dbms,Oracle,retail_sor_na,,,,,,,,
+2,retail_sor_cat,sales via catalog,Dbms,Pg,retail_sor_cat,,,,,,,,
+3,retail_sor_eu,Europe sales,Dbms,sqlserver,retail_sor_eu,,,,,,,,
+4,retail_as_sor,Asia sales,Dbms,MySql,retail_as_sor,,,,,,,,
+5,FlatFiles_SOR_text,Cost/Price of Aisa,Flat file,text delimited,,,,,,,,,
+6,FlatFiles_SOR_excel,"Price,cost and dimensions",Flat file,Excel,,,,,,,,,
+7,FlatFiles_SOR_csv,Dimscenario,Flat file,csv,,,,,,,,,
+8,retail_sor_plan,sales via plan,Dbms,Pg,retail_sor_plan,,,,,,,,
