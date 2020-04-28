@@ -8,5 +8,6 @@ Sales Data Warehouse for AdventureWorks
 •	Designed Dashboards in order to give the business users information at a glance
 
 How to run?
-Download the newfinal.zip and import it using talend
-the visualization files can be opened using tableau and powerBI
+Download the source files and create the required databases in your system.
+Download the newfinal.zip and import it using talend and make all the necessary connections.
+the visualization files can be opened using tableau and powerBI.
