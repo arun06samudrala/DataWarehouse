@@ -1,0 +1,11 @@
+DI_Reject_ID,DI_Reject_Code,DI_Reject_Reason,DI_Reject_Description,SOR_ID,DI_Job_ID,DI_Create_Date,DI_Modified_Date
+1,10,Product Identifier zero or Null,Product Identifier zero or Null,,,,
+2,20,Store Identifier zero or Null,Store Identifier zero or Null,,,,
+3,30,Currency Identifiers zero or Null,Currency Identifiers zero or Null,,,,
+4,40,Geography Identifier zero or Null,Geography Identifier zero or Null,,,,
+5,50,Channel Identifier zero or Null,Channel Identifier zero or Null,,,,
+6,60,Account Identifier zero or Null,Account Identifier zero or Null,,,,
+7,70,Entity Identifier zero or Null,Entity Identifier zero or Null,,,,
+8,80,Scenario Identifier zero or Null,Scenario Identifier zero or Null,,,,
+9,90,ProductCategoryKey Identifier zero or Null,ProductCategoryKey Identifier zero or Null,,,,
+10,-1,Something Invalid,Invalid Data but cannot determine why,,,,
