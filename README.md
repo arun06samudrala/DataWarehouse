@@ -1,5 +1,5 @@
 # DataWarehouse
-Sales Data Warehouse for AdventureWorks
+Analyzed the business performance of a retail company that sells it's products to customers and other businesses through various sales channels.
 •	Integrated and cleansed the raw data from various source databases such as MySQL, SQL server, Oracle and Postgres using Talend which had more than 75 million rows
 •	Analyzed the source data and created multiple jobs using Talend for all the dimensions and fact models
 •	Designed a Master job which runs the 45 individual jobs with just one click and tuned it in order to reduce the time taken to run the master job by nearly 30 minutes.
